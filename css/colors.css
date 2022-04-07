@@ -1,0 +1,124 @@
+.c-red {
+    color:#ff0000;
+    border-color:#ff0000;
+}
+
+.c-green {
+    color:#00ff00;
+    border-color:#00ff00;
+}
+
+.c-darkblue {
+    color:#0000ff;
+    border-color:#0000ff;
+}
+
+.c-cyan {
+    color:#00ffff;
+    border-color:#00ffff;
+}
+
+.c-yellow {
+    color:#ffff00;
+    border-color:#ffff00;
+}
+
+.c-white {
+    color:#ffffff;
+    border-color:#ffffff;
+}
+
+.c-black {
+    color:#000000;
+    border-color:#000000;
+}
+
+
+
+
+.c-facebook {
+    color:#4267B2;
+    border-color:#4267B2;
+}
+
+.c-facebookDark {
+    color:#2756b4;
+    border-color:#2756b4;
+}
+
+.c-facebookDark:hover {
+    outline-color: #2756b4;
+    background-color: #2756b4;
+    color: white;
+    border-color: white;
+}
+
+.c-discord {
+    color:#5865F2;
+    border-color:#5865F2;
+    background-color:rgba(0, 0, 0, 0);
+    outline-color: #ffffff;
+}
+
+.c-discord:hover {
+    outline-color: slateblue;
+    background-color: slateblue;
+    border-color:white;
+    color: white;
+}
+
+.c-github {
+    color:white;
+    border-color:white;
+    background-color:rgba(0, 0, 0, 0);
+    outline-color: white;
+}
+
+.c-github:hover {
+    outline-color: white;
+    background-color: white;
+    border-color:black;
+    color: black;
+}
+
+.c-linkedin {
+    color:#0A66C2;
+    border-color:#0A66C2;
+    background-color:rgba(0, 0, 0, 0);
+    outline-color: #0A66C2;
+}
+
+.c-linkedin:hover {
+    outline-color: black;
+    background-color: #0A66C2;
+    border-color:black;
+    color: white;
+}
+
+.c-twitch {
+    color:#6441a5;
+    border-color:#6441a5;
+    background-color:rgba(0, 0, 0, 0);
+    outline-color: #6441a5;
+}
+
+.c-twitch:hover {
+    outline-color: black;
+    background-color: #6441a5;
+    border-color:black;
+    color: white;
+}
+
+.c-youtube {
+    color:#ff0000;
+    border-color:#ff0000;
+    background-color:rgba(0, 0, 0, 0);
+    outline-color: #ff0000;
+}
+
+.c-youtube:hover {
+    outline-color: white;
+    background-color: #ff0000;
+    border-color:white;
+    color: white;
+}
