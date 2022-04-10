@@ -122,3 +122,17 @@
     border-color:white;
     color: white;
 }
+
+.c-cv {
+    color: #94FA55;
+    border-color:black;
+    background-color:rgba(0, 0, 0, 0);
+    outline-color: black;
+}
+
+.c-cv:hover {
+    outline-color: #94FA55;
+    background-color: #94FA55;
+    border-color: #94FA55;
+    color: black;
+}
